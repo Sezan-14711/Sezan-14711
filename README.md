@@ -4,12 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sezan-14711&label=Profile%20views&color=0e75b6&style=flat" alt="Sezan-14711" /> </p>
 
-🌱 I'm currently exploring **Python development, web technologies, and software design**  
-🔭 Passionate about **graphic design, UI/UX, and creating intuitive digital experiences**  
-💼 Skilled in **MS Office Suite, data processing, and administrative tasks**  
-📍 Based in **Cumilla, Bangladesh**  
+🌱 I’m a **Web Designer** and a **Graphic Designer** specializing in intuitive digital experiences and visually compelling interfaces.
+
+🔭 I enjoy turning complex ideas into simple, beautiful designs that work seamlessly across platforms.
+
+💼 Proficient with **MS Excel, Word, Office, and experienced in data survey tasks and data processing.**
+
 📫 Reach me at **[edsizan109@gmail.com](mailto:edsizan109@gmail.com)**  
-⚡ Fun fact: I enjoy **transforming complex ideas into simple, beautiful designs**
+
 
 ---
 
@@ -39,7 +41,6 @@
 
 ### Programming & Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python" />
   <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" title="CSS" />
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" />
@@ -58,12 +59,6 @@
   <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" title="MS Word" />
   <img src="https://skillicons.dev/icons?i=excel" width="48" height="48" alt="Excel" title="MS Excel" />
   <img src="https://skillicons.dev/icons?i=powerpoint" width="48" height="48" alt="PowerPoint" title="MS PowerPoint" />
-</p>
-
-### Data Management
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
 </p>
 
 ---
@@ -103,3 +98,5 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
   **[📄 View My Resume and CV](https://drive.google.com/drive/u/0/folders/1s9lNGqcz2XA7EfzHTkpfexajcz9a2KM0)** 
 </div>
+
+---
